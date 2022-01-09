@@ -8,4 +8,9 @@
 0,BoneVRepeat,283,268,40,3,90,12,65
 0,BoneVRepeat,363,325,40,1,120,11,90
 0,BoneVRepeat,443,268,40,3,90,12,65
-7.3,EndAttack,,,,,,,
+0,BoneVRepeat,273,268,40,3,90,12,65
+0,BoneVRepeat,353,325,40,1,120,11,90
+0,BoneVRepeat,433,268,40,3,90,12,65
+7,,,,,,,,
+0,BONESTAB,0,270,0,3,,,
+1,EndAttack,,,,,,,
